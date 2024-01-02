@@ -1139,8 +1139,8 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/javier-miranda-nc1zsYGkLFA-unsplash.jpg");
-			background-size: 100% 100%;
+			background-image: url("../../images/javier-miranda-nc1zsYGkLFA-unsplash.jpg");
+			background-size: cover;
 			background-position: center,
  center;
 			background-repeat: no-repeat;
